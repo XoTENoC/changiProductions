@@ -76,3 +76,11 @@
     opacity: 0.7;
   }
 }
+
+.img1{
+  src: url(../img/Wedding/Wedding1thumb.jpg);
+}
+
+.img2{
+  src: url(../img/Wedding/Wedding2thumb.jpg);
+}

@@ -155,7 +155,7 @@ background-size: cover;
 #slide9{
   background-color: #fff;
   color: #333333;
-  height: 90vh;
+  height: 50vh;
   padding: 30vh 0;
 }
 
@@ -213,6 +213,7 @@ background-size: cover;
 .linkport2 a:hover{
   border: 2px solid #fff;
   margin-left: -2px;
+  text-decoration: none;
 }
 
 .titlepro{
@@ -229,4 +230,11 @@ background-size: cover;
   text-decoration: none:
   color: #fff;
 }
-/* Test */
+
+a{
+  text-decoration: none;
+}
+
+.hoverwhite:hover{
+  color: white;
+}

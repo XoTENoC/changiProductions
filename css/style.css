@@ -155,8 +155,8 @@ background-size: cover;
 #slide9{
   background-color: #fff;
   color: #333333;
-  height: 30vh;
-  padding: 5vh 0;
+  height: 50vh;
+  padding: 30vh 0;
 }
 
 #red{
@@ -213,6 +213,7 @@ background-size: cover;
 .linkport2 a:hover{
   border: 2px solid #fff;
   margin-left: -2px;
+  text-decoration: none;
 }
 
 .titlepro{
@@ -228,4 +229,12 @@ background-size: cover;
 .fixME{
   text-decoration: none:
   color: #fff;
+}
+
+a{
+  text-decoration: none;
+}
+
+.hoverwhite:hover{
+  color: white;
 }
